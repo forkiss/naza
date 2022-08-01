@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/forkiss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -14,20 +14,20 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/q191201771/naza/pkg/filebatch"
-	"github.com/q191201771/naza/pkg/nazalog"
+	"github.com/forkiss/naza/pkg/filebatch"
+	"github.com/forkiss/naza/pkg/nazalog"
 )
 
 //var licenseTmpl = `
 //> **原文链接：** [https://pengrl.com/p/%s/](https://pengrl.com/p/%s/)
 //> **原文出处：** [yoko blog](https://pengrl.com) (https://pengrl.com)
-//> **原文作者：** [yoko](https://github.com/q191201771) (https://github.com/q191201771)
+//> **原文作者：** [yoko](https://github.com/forkiss) (https://github.com/forkiss)
 //> **版权声明：** 本文欢迎任何形式转载，转载时完整保留本声明信息（包含原文链接、原文出处、原文作者、版权声明）即可。本文后续所有修改都会第一时间在原始地址更新。
 //
 //![fccxy](https://pengrl.com/images/fccxy_qccode_and_sys.jpg)`
 
 var licenseTmpl = `
-本文完，作者[yoko](https://github.com/q191201771)，尊重劳动人民成果，转载请注明原文出处： [https://pengrl.com/p/%s/](https://pengrl.com/p/%s/)`
+本文完，作者[yoko](https://github.com/forkiss)，尊重劳动人民成果，转载请注明原文出处： [https://pengrl.com/p/%s/](https://pengrl.com/p/%s/)`
 
 func main() {
 	dir := parseFlag()

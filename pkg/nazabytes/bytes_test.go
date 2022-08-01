@@ -1,5 +1,5 @@
 // Copyright 2021, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/forkiss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/q191201771/naza/pkg/assert"
+	"github.com/forkiss/naza/pkg/assert"
 )
 
 var inbuf = bytes.Repeat([]byte{'1', '2', '3', '4'}, 5678)

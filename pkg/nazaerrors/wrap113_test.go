@@ -1,11 +1,12 @@
 // Copyright 2021, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/forkiss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
 //
 // Author: Chef (191201771@qq.com)
 
+//go:build go1.13
 // +build go1.13
 
 package nazaerrors
@@ -15,9 +16,9 @@ import (
 	"io"
 	"testing"
 
-	"github.com/q191201771/naza/pkg/assert"
+	"github.com/forkiss/naza/pkg/assert"
 
-	"github.com/q191201771/naza/pkg/nazalog"
+	"github.com/forkiss/naza/pkg/nazalog"
 )
 
 func TestWrap(t *testing.T) {

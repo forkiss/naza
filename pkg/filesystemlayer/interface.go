@@ -1,5 +1,5 @@
 // Copyright 2021, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/forkiss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -9,7 +9,7 @@
 package filesystemlayer
 
 // 注意，这个package并没有完整实现所有的文件操作，使用内存作为存储时，存在一些限制
-// 目前只是服务于我另一个项目中的特定场景 https://github.com/q191201771/lal
+// 目前只是服务于我另一个项目中的特定场景 https://github.com/forkiss/lal
 
 var (
 	DefaultDiskFileSystemLayer   IFileSystemLayer

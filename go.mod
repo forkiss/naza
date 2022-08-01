@@ -1,3 +1,3 @@
-module github.com/q191201771/naza
+module github.com/forkiss/naza
 
-go 1.14
+go 1.18

@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/forkiss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -12,9 +12,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/q191201771/naza/pkg/assert"
-	"github.com/q191201771/naza/pkg/nazalog"
-	"github.com/q191201771/naza/pkg/snowflake"
+	"github.com/forkiss/naza/pkg/assert"
+	"github.com/forkiss/naza/pkg/nazalog"
+	"github.com/forkiss/naza/pkg/snowflake"
 )
 
 func TestNew(t *testing.T) {

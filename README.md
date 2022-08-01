@@ -2,19 +2,19 @@
 <br>
 Go语言基础库
 <br><br>
-<a title="Release" target="_blank" href="https://github.com/q191201771/naza/tags"><img src="https://img.shields.io/github/tag/q191201771/naza.svg?label=release"></a>
-<a title="CI" target="_blank" href="https://github.com/q191201771/naza/actions/workflows/ci.yml"><img src="https://github.com/q191201771/naza/actions/workflows/ci.yml/badge.svg"></a>
+<a title="Release" target="_blank" href="https://github.com/forkiss/naza/tags"><img src="https://img.shields.io/github/tag/q191201771/naza.svg?label=release"></a>
+<a title="CI" target="_blank" href="https://github.com/forkiss/naza/actions/workflows/ci.yml"><img src="https://github.com/forkiss/naza/actions/workflows/ci.yml/badge.svg"></a>
 <a title="codecov" target="_blank" href="https://codecov.io/gh/q191201771/naza"><img src="https://codecov.io/gh/q191201771/naza/branch/master/graph/badge.svg?token=9wWcoiktZl"></a>
-<a title="goreportcard" target="_blank" href="https://goreportcard.com/report/github.com/q191201771/naza"><img src="https://goreportcard.com/badge/github.com/q191201771/naza"></a>
+<a title="goreportcard" target="_blank" href="https://goreportcard.com/report/github.com/forkiss/naza"><img src="https://goreportcard.com/badge/github.com/forkiss/naza"></a>
 <br>
-<a title="codeline" target="_blank" href="https://github.com/q191201771/naza"><img src="https://sloc.xyz/github/q191201771/naza/?category=code"></a>
-<a title="license" target="_blank" href="https://github.com/q191201771/naza/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
-<a title="lastcommit" target="_blank" href="https://github.com/q191201771/naza/commits/master"><img src="https://img.shields.io/github/commit-activity/m/q191201771/naza.svg?style=flat-square"></a>
-<a title="commitactivity" target="_blank" href="https://github.com/q191201771/naza/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/q191201771/naza.svg?style=flat-square"></a>
+<a title="codeline" target="_blank" href="https://github.com/forkiss/naza"><img src="https://sloc.xyz/github/q191201771/naza/?category=code"></a>
+<a title="license" target="_blank" href="https://github.com/forkiss/naza/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
+<a title="lastcommit" target="_blank" href="https://github.com/forkiss/naza/commits/master"><img src="https://img.shields.io/github/commit-activity/m/q191201771/naza.svg?style=flat-square"></a>
+<a title="commitactivity" target="_blank" href="https://github.com/forkiss/naza/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/q191201771/naza.svg?style=flat-square"></a>
 <br>
-<a title="language" target="_blank" href="https://github.com/q191201771/naza"><img src="https://img.shields.io/github/languages/count/q191201771/naza.svg?style=flat-square"></a>
-<a title="toplanguage" target="_blank" href="https://github.com/q191201771/naza"><img src="https://img.shields.io/github/languages/top/q191201771/naza.svg?style=flat-square"></a>
-<a title="godoc" target="_blank" href="https://godoc.org/github.com/q191201771/naza"><img src="http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square"></a>
+<a title="language" target="_blank" href="https://github.com/forkiss/naza"><img src="https://img.shields.io/github/languages/count/q191201771/naza.svg?style=flat-square"></a>
+<a title="toplanguage" target="_blank" href="https://github.com/forkiss/naza"><img src="https://img.shields.io/github/languages/top/q191201771/naza.svg?style=flat-square"></a>
+<a title="godoc" target="_blank" href="https://godoc.org/github.com/forkiss/naza"><img src="http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square"></a>
 <br><br>
 </p>
 
@@ -74,7 +74,7 @@ demo/                    ...... 示例相关的代码
 
 #### 项目名 naza 由来
 
-本仓库主要用于存放我自己写的一些 Go 基础库代码。目前主要服务于我的另一个项目： [lal](https:////github.com/q191201771/lal)
+本仓库主要用于存放我自己写的一些 Go 基础库代码。目前主要服务于我的另一个项目： [lal](https:////github.com/forkiss/lal)
 
 naza 即哪吒（正确拼音为 nezha，我女儿发音读作 naza，少一个字母，挺好~），希望本仓库以后能像三头六臂，有多种武器的哪吒一样，为我提供一个趁手的工具箱。
 
